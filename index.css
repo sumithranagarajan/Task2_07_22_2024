@@ -1,0 +1,17 @@
+body {
+  align-items: center !important;
+  justify-content: center !important;
+  background-color: black !important;
+  color: white !important;
+  font-family: "EB Garamond", serif !important;
+}
+div{
+  display: flex !important;
+  flex-wrap: wrap !important;
+  margin:3px;
+  padding: 2px;
+}
+
+.heading {
+  text-align: center;
+}
